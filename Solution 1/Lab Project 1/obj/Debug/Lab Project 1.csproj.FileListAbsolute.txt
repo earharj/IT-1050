@@ -1,0 +1,12 @@
+C:\Users\Jackie\Desktop\Solution 1\Lab Project 1\bin\Debug\Lab Project 1.exe.config
+C:\Users\Jackie\Desktop\Solution 1\Lab Project 1\obj\Debug\Lab Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Jackie\Desktop\Solution 1\Lab Project 1\bin\Debug\Lab Project 1.exe
+C:\Users\Jackie\Desktop\Solution 1\Lab Project 1\bin\Debug\Lab Project 1.pdb
+C:\Users\Jackie\Desktop\Solution 1\Lab Project 1\obj\Debug\Lab Project 1.exe
+C:\Users\Jackie\Desktop\Solution 1\Lab Project 1\obj\Debug\Lab Project 1.pdb
+C:\Users\Jackie\Desktop\IT1050\Solution 1\Lab Project 1\bin\Debug\Lab Project 1.exe.config
+C:\Users\Jackie\Desktop\IT1050\Solution 1\Lab Project 1\obj\Debug\Lab Project 1.exe
+C:\Users\Jackie\Desktop\IT1050\Solution 1\Lab Project 1\obj\Debug\Lab Project 1.pdb
+C:\Users\Jackie\Desktop\IT1050\Solution 1\Lab Project 1\bin\Debug\Lab Project 1.exe
+C:\Users\Jackie\Desktop\IT1050\Solution 1\Lab Project 1\bin\Debug\Lab Project 1.pdb
+C:\Users\Jackie\Desktop\IT1050\Solution 1\Lab Project 1\obj\Debug\Lab Project 1.csprojResolveAssemblyReference.cache
